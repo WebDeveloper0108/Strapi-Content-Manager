@@ -38,7 +38,7 @@ To get this project running locally, follow these steps:
 2. **Navigate to the project directory:**
 
    ```bash
-   cd 13-strapi
+   cd strapi-content-manager
    ```
 
 3. **Install the dependencies:**
